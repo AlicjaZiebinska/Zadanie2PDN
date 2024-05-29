@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alicj\\source\\repos\\Zadanie2PDN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F13E2DD-B027-4720-9148-E745D7C25B0C}|Zadanie2PDN\\Zadanie2PDN.csproj|c:\\users\\alicj\\source\\repos\\zadanie2pdn\\zadanie2pdn\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F13E2DD-B027-4720-9148-E745D7C25B0C}|Zadanie2PDN\\Zadanie2PDN.csproj|solutionrelative:zadanie2pdn\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alicj\\source\\repos\\Zadanie2PDN\\Zadanie2PDN\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Zadanie2PDN\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alicj\\source\\repos\\Zadanie2PDN\\Zadanie2PDN\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Zadanie2PDN\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:54:42.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
